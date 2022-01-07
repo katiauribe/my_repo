@@ -1,1 +1,3 @@
 This is a demonstration of how to add a new file to my repository.
+
+I have successfully added an additional commit to my demo.txt file.
